@@ -1,5 +1,20 @@
 # 💫 About Me:
-#ITSecurity #Researcher #CISSP
+Hi there 👋 I’m [Your Name], a cybersecurity researcher and product builder with 8+ years securing infrastructure and driving compliance at scale.
+
+I specialize in:
+
+🔐 Vulnerability Management & Threat Research — discovering, analyzing, and neutralizing risks across networks, web, and mobile.
+
+📜 Compliance Frameworks — hands-on ISO 27001:2022 Lead Auditor, SOC 2 Type II, PCI DSS, and CMMC implementations that deliver real security.
+
+🤖 AI-Driven Security Tools — building autonomous agents, GRC automation, and LLM-powered workflows for next-gen risk management.
+
+🧠 What I’m Building
+⚙️ Full-stack security automation — Chrome extensions, API-driven tools, and containerized apps (Docker, Kubernetes).
+
+🔬 AI/ML + Security Experiments — quantum computing (Qiskit), eBPF monitoring, MCP agents, and encrypted data pipelines.
+
+📈 Open-source contributions — vulnerability scanners, compliance checkers, and developer-first security utilities.
 
 
 # 💻 Tech Stack:
