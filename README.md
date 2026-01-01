@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋 I’m [Your Name], a cybersecurity researcher and product builder with 8+ years securing infrastructure and driving compliance at scale.
+Hi there 👋 I’m Krishna Chintalapudi, a cybersecurity researcher and product builder with 8+ years securing infrastructure and driving compliance at scale.
 
 I specialize in:
 
