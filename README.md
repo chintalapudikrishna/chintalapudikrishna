@@ -13,7 +13,7 @@ I'm Currently Working On<br> 🛡️ **Chrome Extensions for Security** — Like
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chintalapudikrishna&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ My Quote
-## Informed Awarness is the key to cyber Ressilence 
+## Informed Awarness is the key to first line of defence in security
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=chintalapudikrishna&limit=5&theme=dark&combine_all_yearly_contributions=true)
